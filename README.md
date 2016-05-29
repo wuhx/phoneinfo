@@ -1,7 +1,7 @@
 # phoneinfo
-A simple Android App get identity information of your phone
+A simple Android App that get identity information of your phone
 
-[Dowload Apk](app/build/outputs/apk/app-debug.apk?raw=true)
+[Download Apk](app/build/outputs/apk/app-debug.apk?raw=true)
 
 
 ![ScreenShot](screenshot/img.png?raw=true "ScreenShot")
